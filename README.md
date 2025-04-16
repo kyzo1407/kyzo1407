@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyzo1407
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning cybersecurity
+- 👀 I’m interested in wed development
+- 🌱 I’m currently learning JavaScript, HTML, and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
